@@ -1,3 +1,3 @@
 # console
 
-console is a Xylon Studio Developer Command prompt
+Developer Command Prompt for Xylon Studio
