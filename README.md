@@ -26,5 +26,5 @@ xs -build console.xsproj
 
 Run
 ```
-xs -run console.xsproj
+xs -run bin/x86/Debug/console.xsproj
 ```
