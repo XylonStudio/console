@@ -29,4 +29,4 @@ Run
 xs -run bin/x86/Debug/console.xsproj
 ```
 
-![prompt.png](http://i65.tinypic.com/fk8qht.png)
+![prompt.png](http://i68.tinypic.com/359d3ld.png)
