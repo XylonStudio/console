@@ -3,11 +3,15 @@
 <!--
 
 /*
-multiple terminal test for termlib.js
+the Developer Command Prompt for Xylon Studio is based on termlib
 
+Credit(s)
 (c) Norbert Landsteiner 2003-2005
 mass:werk - media environments
 <http://www.masswerk.at>
+
+Developer(s)
+Xylon Studio
 
 */
 var mountedDir = '';
@@ -19,8 +23,7 @@ var procID     = 0;
 var term       = new Array();
 
 var helpPage=[
-    '%CS%+r Terminal Help %-r%n',
-    '  This is just a tiny test for multiple terminals.',
+    '%CS%+r Developer Command Prompt for Xylon Studio %-r%n',
     '  use one of the following commands:',
     '     clear ........ clear the terminal',
     '     exit ......... close the terminal ( or unmount ) <ECS>',
