@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+    <AppName>console</AppName>
+    <AppVersion>1.2</AppVersion>
+    <ConfigBuild>Debug</ConfigBuild>
+    <ConfigCPU>x86</ConfigCPU>
+    <ConfigFramework>.NET Framework 4.6</ConfigFramework>
+    <ConfigEngine>Subatomic</ConfigEngine>
+    <EnvironmentName>xstudio</EnvironmentName>
+    <EnvironmentVersion>1.0</EnvironmentVersion>
+    <String>xylon.tools.console</String>
+    <Output>\bin\x86\Debug</Output>
+</Properties>

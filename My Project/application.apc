@@ -2,5 +2,5 @@
 <project>
     <Executable>console.exe</Executable>
     <Startup ui="index" type="Local">\app\index.html</Startup>
-    <Identifier>windows.console.console</Identifier>
+    <Identifier>xylon.tools.console</Identifier>
 </project>

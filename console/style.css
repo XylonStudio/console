@@ -1,0 +1,26 @@
+/* Style Sheet */
+body {
+margin: 0;
+color: #fff;
+}
+
+body,p,a,td {
+font-family: courier,fixed,swiss,sans-serif;
+font-size: 12px;
+color: #cccccc;
+}
+
+.term {
+font-family: courier,fixed,swiss,sans-serif;
+font-size: 12px;
+color: #fff;
+background: #151515;
+/*background: #300A24;*/
+}
+
+.termReverse {
+color: #151515;
+background: #fff; /*90a959*/
+width: 100%;
+height: 100%;
+}
