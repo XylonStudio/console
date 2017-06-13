@@ -4,8 +4,8 @@ Developer Command Prompt for Xylon Studio
 
 Minimum Requirments for compiling this app
 
-1. Xylon Studio 0.2.14.1
-2. subatomicJs 0.1.18 (Next)
+1. Xylon Studio 0.2.14.7
+2. subatomicJs 0.1.23.2
 3. .NET Framework 4.6
 
 
