@@ -26,7 +26,7 @@ xs -build console.xsproj
 
 Run
 ```
-xs -run bin/x86/Debug/console.xsproj
+xs -run bin/x86/Debug/console.exe
 ```
 
 ![prompt.png](http://i68.tinypic.com/359d3ld.png)
