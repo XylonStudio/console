@@ -1,0 +1,9 @@
+﻿using library.seshaUI;
+
+func main(args) {
+    document.title = "Untitled";
+}
+
+func application_onReady() {
+
+}

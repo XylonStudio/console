@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <Executable>[app_name].exe</Executable>
+    <Startup ui="index" type="Local">\app\index.html</Startup>
+    <Identifier>windows.[app_name].app_title</Identifier>
+</project>

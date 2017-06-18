@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+    <ControlBox>True</ControlBox>
+    <Cursor>Default</Cursor>
+    <EscapeKey>False</EscapeKey>
+    <FormBorderStyle>Sizable</FormBorderStyle>
+    <Icon>/app/</Icon>
+    <MaximizeBox>True</MaximizeBox>
+    <MinimizeBox>True</MinimizeBox>
+    <Opacity>100</Opacity>
+    <NoDefaultContextMenu>False</NoDefaultContextMenu>
+    <RightToLeft>No</RightToLeft>
+    <ShowIcon>True</ShowIcon>
+    <ShowInTaskbar>True</ShowInTaskbar>
+    <Width>300</Width>
+    <Height>300</Height>
+    <StartPosition>WindowsDefaultLocation</StartPosition>
+    <TopMost>False</TopMost>
+    <UseWaitCursor>False</UseWaitCursor>
+    <WindowState>Normal</WindowState>
+</properties>
