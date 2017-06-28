@@ -477,7 +477,7 @@ func termHandler() {
 }
 
 func mountDirectory(dir) {
-    if (dir.endsWith('/') || "\\") {
+    if dir.endsWith('/') || "\\" {
         mountedDir = dir;;
     }
     else
